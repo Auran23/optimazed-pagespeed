@@ -1,0 +1,16 @@
+# Logs
+logs
+*.log
+
+# Debug log from npm
+npm-debug.log
+*.iml
+*.xml
+
+/node_modules/
+/dist/
+/.git/
+/app/css/
+/**/*.psd
+/**/Thumbs.db
+/**/*.DS_Store
