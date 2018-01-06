@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  padding: 0;
+  min-width: 320px;
+  overflow-x: hidden;
+  opacity: 1;
+}
+button {
+  cursor: pointer;
+}
+input, button {
+  border: none;
+  outline: none;
+}
+a:hover {
+  text-decoration: none;
+}
+h3, a {
+  text-transform: uppercase;
+}
+.over-hidden {
+  overflow: hidden;
+}
+.row {
+  margin-left: 0;
+  margin-right: 0;
+}
+.img-responsive {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
